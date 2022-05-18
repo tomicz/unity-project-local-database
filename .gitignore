@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+.DS_Store
+Scenes.meta
+Assets/Scenes
+Packages
+ProjectSettings
+UserSettings
